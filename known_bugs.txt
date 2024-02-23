@@ -1,0 +1,2 @@
+Device restarts before finishing "setup()". This only happens once, when starting
+
