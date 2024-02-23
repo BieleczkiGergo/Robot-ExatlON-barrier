@@ -1,2 +1,4 @@
 Device restarts before finishing "setup()". This only happens once, when starting
 
+LCD flickers when moving arduino (likely because of contact issues)
+
